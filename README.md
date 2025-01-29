@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<p align="center">Frontend</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<p align="center">Backend</p>
 
 ###
 
@@ -40,6 +40,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkotp&show_icons=true&locale=en&layout=compact" alt="mahmoudkotp" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkotp&show_icons=true&locale=en&layout=compact" alt="mahmoudkotp" /></p>
 
 
